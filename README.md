@@ -1,6 +1,7 @@
 # 💫 About Me:
 <h2 align="left">Aku loh males rek</h2>
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWMwaGNieGxzNHVkbDVuZWZ2Nzl5eDh2djIyODZkejE5bHM0MGVlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YNFqVxJqimq2WVBajM/giphy.gif"  />
+<img align="right" height="150" 
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWMwaGNieGxzNHVkbDVuZWZ2Nzl5eDh2djIyODZkejE5bHM0MGVlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YNFqVxJqimq2WVBajM/giphy.gif"  />
 
 
 ## 🌐 Socials:
